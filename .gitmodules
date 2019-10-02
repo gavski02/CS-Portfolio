@@ -1,0 +1,3 @@
+[submodule "CS160/ccc-website"]
+	path = CS160/ccc-website
+	url = https://github.com/gavski02/ccc-website.git
