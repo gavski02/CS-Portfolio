@@ -22,7 +22,7 @@ export default function Nav({ onMenuToggle = () => {} }) {
                 <Link to="/">Home</Link>
               </li>
               <li>
-                <Link to="/Generic">Generic Page</Link>
+                <Link to="/CS160">CS 160</Link>
               </li>
               <li>
                 <Link to="/Elements">Elements</Link>
